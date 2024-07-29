@@ -1,6 +1,7 @@
-<h1 style="text-align: center;"> MetaCall </h1>
-<div style="text-align: center;">
-  <img src="https://imgur.com/d6617xs.png" alt="MetaCall" width="200" height="200">
+<div align="center">
+  <a href="https://metacall.io" target="_blank"><img src="https://raw.githubusercontent.com/metacall/core/develop/deploy/images/logo.png" alt="METACALL" style="max-width:100%; margin: 0 auto;" width="80" height="80"></a>
+  <h1><b>MetaCall Distributable</b></h1>
+  <a href="https://metacall.io">MetaCall.io</a>
 </div>
 
 ---
@@ -15,9 +16,7 @@ A distributable, in software terms, refers to a package of compiled code that ca
 
 In a project like MetaCall, which supports multiple operating systems, there are typically separate distributable packages for each platform. These packages ensure users on different systems can install and run MetaCall effortlessly. MetaCall distributables are self-contained and portable, making it easy to move and use MetaCall across various environments without requiring additional setup.
 
-#### Download Links
-- Windows Distributable: [Download for Windows](https://github.com/metacall/distributable-windows) <br>
-- Mac Distributable: [Download for Mac](https://github.com/metacall/distributable-macos) <br>
-- Linux Distributable: [Download for Linux](https://github.com/metacall/distributable-linux) <br>
-
---- 
+### Distributable Links by Operative System
+- [Windows Distributable](https://github.com/metacall/distributable-windows)
+- [MacOS Distributable](https://github.com/metacall/distributable-macos)
+- [Linux Distributable](https://github.com/metacall/distributable-linux)
